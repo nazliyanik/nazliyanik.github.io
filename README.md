@@ -1,4 +1,3 @@
 # nazliyanik.github.io
-nazliyanik
-Linux, SIP, Voice, Genesys Engage Server ,Kamailio ,Devops, Bash ,Telephony
+Linux, SIP, Telephony ,Voice, Genesys Engage Server ,VoIP ,Kamailio ,Devops, Bash scripting
 👩‍💼 💻 ☎ 🐋
