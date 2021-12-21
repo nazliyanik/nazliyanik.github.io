@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Nazlı'nın Bloğu
-baseurl : https://github.com/nazliyanik
+baseurl : Anasayfa
+url : https://github.com/nazliyanik
 email: nazliyanik52@gmail.com
 github_username : nazliyanik
 
